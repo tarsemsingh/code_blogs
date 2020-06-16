@@ -24,6 +24,10 @@ This is a list of programming and related blogs and other resources. I am going 
 
 [Machine learning book's resources](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 
+## Mathematics
+
+[Infinity](https://en.wikipedia.org/wiki/Infinity)
+
 ## Others
 
 [Find the dominant colors in any image-github](https://github.com/rodartha/ColorPalette/)
