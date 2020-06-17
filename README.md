@@ -14,6 +14,12 @@ This is a list of programming and related blogs and other resources. I am going 
 ### Free
 [Automate the Boring Stuff](https://automatetheboringstuff.com/2e/)
 
+[Python Programming Fundamentals](https://link.springer.com/book/10.1007%2F978-1-4471-6642-9)
+
+[Data Structures and Algorithms with Python](https://link.springer.com/book/10.1007%2F978-3-319-13072-9)
+
+[The Python Workbook](https://link.springer.com/book/10.1007%2F978-3-319-14240-1)
+
 ## Github
 
 [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
