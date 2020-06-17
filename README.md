@@ -14,6 +14,8 @@ This is a list of programming and related blogs and other resources. I am going 
 ### Free
 [Automate the Boring Stuff](https://automatetheboringstuff.com/2e/)
 
+[Python 101](https://python101.pythonlibrary.org/)
+
 [Python Programming Fundamentals](https://link.springer.com/book/10.1007%2F978-1-4471-6642-9)
 
 [Data Structures and Algorithms with Python](https://link.springer.com/book/10.1007%2F978-3-319-13072-9)
